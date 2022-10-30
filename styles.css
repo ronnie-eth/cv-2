@@ -1,0 +1,16 @@
+img {
+ border-radius: 50%;
+ width: 20%;
+}
+
+body {
+ background-color: #94B3FD
+}
+
+hr {
+ border-color: white;
+ border-style: dotted none none;
+ border-width: 10px;
+ width: 5%;
+}
+
